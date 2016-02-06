@@ -9,7 +9,7 @@ import (
 func main() {
 	files, _ := ioutil.ReadDir("../images")
 	baseUrl := "https://media.githubusercontent.com/media/dyzz/dyzz.github.io/master/images/"
-	indexUrl := "[%s](pages/tmp/%s.md)\n"
+	indexUrl := "[%s](%s.md)\n"
 	index := ""
 	imgTempl := "![](%s%s.png)"
 	for _, f := range files {

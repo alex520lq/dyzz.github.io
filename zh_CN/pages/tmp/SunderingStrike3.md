@@ -1,0 +1,1 @@
+![](https://media.githubusercontent.com/media/dyzz/dyzz.github.io/master/images/SunderingStrike3.png)

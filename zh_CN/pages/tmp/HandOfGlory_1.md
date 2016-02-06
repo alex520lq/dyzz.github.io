@@ -1,0 +1,1 @@
+![](https://media.githubusercontent.com/media/dyzz/dyzz.github.io/master/images/HandOfGlory_1.png)

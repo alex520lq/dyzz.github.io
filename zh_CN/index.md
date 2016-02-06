@@ -3,7 +3,7 @@
 
 ## 游戏介绍
 
-![](/images/DQIcon.png)
+![](https://media.githubusercontent.com/media/dyzz/dyzz.github.io/master/images/DQIcon.png)
 
 寻梦之旅(Dream Quest)是一款Rogue-Like的卡组构建游戏.
 

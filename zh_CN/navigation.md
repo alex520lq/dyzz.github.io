@@ -33,6 +33,7 @@
   * [巫师](pages/prof/wizard.md)
   * [牧师](pages/prof/priest.md)
   * [盗贼](pages/prof/thief.md)
+  * [刺客](pages/prof/assassin.md)
   * [僧人](pages/prof/monk.md)
   * [死灵法师](pages/prof/necro.md)
   * [圣骑士](pages/prof/paladin.md)
